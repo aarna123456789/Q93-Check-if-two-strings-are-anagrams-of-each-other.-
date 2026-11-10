@@ -19,7 +19,7 @@ for(i=0;str1[i]!='\0';i++)
     }
   }
 }
-if(str1[i]=='\0'&&count==j)
+if(j=0;str2[j]!='\0';j++)
   printf("strings are anagrams");
 else
   printf("strings are not anagrams");
